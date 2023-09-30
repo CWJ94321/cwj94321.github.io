@@ -1,6 +1,6 @@
 ---
 title: Portfolio
 layout: default
-permalink: /Portfolio/
+permalink: /portfolio/
 ---
 # Why is this page the same?
