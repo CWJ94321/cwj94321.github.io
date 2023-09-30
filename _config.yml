@@ -1,6 +1,6 @@
 theme: jekyll-theme-midnight
 title: WJ's homepage
 description: Welcome to my site!
-navigation:
-  -name : See my portfolio
-   url: /Portfolio/
+
+name : See my portfolio
+url: /Portfolio/
