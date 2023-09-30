@@ -1,12 +1,14 @@
 # Data Scientist /Data Analyst
 
-###[Portfolio](/Portfolio/)
+[Portfolio](/portfolio/)
 
 #### Technical Skills: SAS, R, Python, SQL
 
 ## Education
-#### Master of Analytics and Visualisation (MAVI), SUSS 
+#### Master of 
 
 ## Experience
 
-
+- blah blah 1
+- test test 2
+- lalaal 3
